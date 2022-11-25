@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-
+Estudiante de Ingenieria de Sistema
+Universidad Del Valle
 
 ![2313123213](https://user-images.githubusercontent.com/69951209/203905187-aac58bc4-33a4-4fc5-acd9-16ab09338af5.gif)
 
