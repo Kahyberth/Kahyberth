@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-![231](https://user-images.githubusercontent.com/69951209/203904999-ad81ae9b-16a1-4e1b-ad68-1305884129ef.gif)
 
+![231](https://user-images.githubusercontent.com/69951209/203905134-d8e0744b-105f-486e-8de2-5b1407601123.gif)
 
 
 
