@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating Sudoku<br>📚 I'm currently learning SpringBoot<br>🎯 Goals: Learn React</p>
+<p align="left">✨ Creating Social Media<br>📚 I'm currently learning React<br>🎯 Goals: Learn Next</p>
 
 ###
 
