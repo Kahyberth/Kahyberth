@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kahyberth and I'm a Software Engineer, from Colombia</h2>
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Kahyberth&txt=I'm%20a%20%20Software%20Engineer"></p>
 
 ###
 
@@ -52,15 +52,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODk4ZzAwNXh3eW5oMHl2azgzbmNja2lzeG5wODBoNXYydzc4MWVhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzeWnbH8Uc5Y4/giphy.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Kahyberth/Kahyberth/output/snake.svg" alt="Snake animation" />
 
 ###
