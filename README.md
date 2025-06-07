@@ -11,7 +11,7 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-  📚 I'm currently learning Go and Angular.<br>
+  📚 I'm currently learning Go <br>
   🚀 I'm currently working on <strong>TaskMate</strong>, an Agile Project Management app.<br>
   🔧 I'm also building <strong>Zaphyr</strong>, a fast, lightweight in-memory key-value store written in Go. It's inspired by Redis and built for caching, real-time applications, and high-performance data handling.<br>
 </p>
