@@ -12,8 +12,7 @@
 
 <p align="left">
   📚 I'm currently learning Go <br>
-  🚀 I'm currently working on <strong>TaskMate</strong>, an Agile Project Management app.<br>
-  🔧 I'm also building <strong>Zaphyr</strong>, a fast, lightweight in-memory key-value store written in Go. It's inspired by Redis and built for caching, real-time applications, and high-performance data handling.<br>
+  🚀 I'm currently working on <strong>Nyxora</strong>, Lightweight, real-time monitor for microservice architectures.<br>
 </p>
 
 ###
